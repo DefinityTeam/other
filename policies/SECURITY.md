@@ -8,3 +8,6 @@ Only the latest commit on `main` or commit hash listed on the corresponding webs
 
 ## Reporting Vulnerabilities
 Please email [security@definityteam.com](mailto:security@definityteam.com) to report security vulnerabilities.
+
+## License
+Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved. This file is offered as-is, without any warranty.
