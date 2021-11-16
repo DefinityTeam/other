@@ -3,6 +3,13 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.0   | :white_check_mark: |
+
+### DLib
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.1.x | ✅ |
+| 1.0.x | ❌ |
+
 ### Other
 Only the latest commit on `main` or commit hash listed on the corresponding website is supported.
 
