@@ -1,13 +1,14 @@
 ## Supported Versions
 ### SemiQL
 | Version | Supported          |
-| ------- | ------------------ |
+|:-------:|:------------------:|
 | 1.0.0   | :white_check_mark: |
 
 ### DLib
 | Version | Supported          |
-| ------- | ------------------ |
-| 1.1.x   | :white_check_mark: |
+|:-------:|:------------------:|
+| 2.x     | ✅ |
+| 1.1.x   | :x: |
 | 1.0.x   | :x:                |
 
 ### Other
