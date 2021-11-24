@@ -1,13 +1,13 @@
 # Supported localization policy
 Here is the current list of languages [supported](#supported-languages):
-| Language Code    | English Name                  |
-|:----------------:|:-----------------------------:|
-| `en-US`          | English (United States)       |
-| `en-GB`          | English (United Kingdom)      |
-| `en-CA`          | English (Canada)              |
-| `en-AU`          | English (Australia)           |
-| `hu`             | Hungarian                     |
-| `cnm`            | Mandarin (Simplified Chinese) |
+| Language Code    | English Name                  | Native Name |
+|:----------------:|:-----------------------------:|:-----------:|
+| `en-US`          | English (United States)       | American English |
+| `en-GB`          | English (United Kingdom)      | British English |
+| `en-CA`          | English (Canada)              | Canadian English |
+| `en-AU`          | English (Australia)           | Australian English |
+| `hu`             | Hungarian                     | Magyar |
+| `cnm`            | Mandarin (Simplified Chinese) | 普通话 |
 
 ## Supported Languages
 Localization is a large part of keeping products supported for as many people as possible. However, a lot of people cannot speak every language. Our policy for supporting a language is simple: **if an employee/volunteer at Definity cannot provide support for the product in that language, the language will not be supported.**
