@@ -8,6 +8,8 @@ Here is the current list of languages [supported](#supported-languages):
 | `en-AU`          | English (Australia)           | Australian English |
 | `hu`             | Hungarian                     | Magyar |
 | `cnm`            | Mandarin (Simplified Chinese) | 普通话 |
+| `jp`             | Japanese                      |        |
+| `pl`             | Polish                        | Polski |
 
 ## Supported Languages
 Localization is a large part of keeping products supported for as many people as possible. However, a lot of people cannot speak every language. Our policy for supporting a language is simple: **if an employee/volunteer at Definity cannot provide support for the product in that language, the language will not be supported.**
@@ -19,6 +21,11 @@ While we appreciate that supporting products in many languages will allow for be
 * [@1s3k3b](https://github.com/1s3k3b) (Definity Member)
 ### Mandarin (Simplified Chinese)
 * [@kai-01](https://github.com/kai-01) (Definity Member)
+### Japanese
+* AtomYuu (Definity Member)
+### Polish
+* Oliver M. (Definity Member)
+* Vita (Definity Member)
 
 ## License
 Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved.  This file is offered as-is, without any warranty.
